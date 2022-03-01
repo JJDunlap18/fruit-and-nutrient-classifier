@@ -19,7 +19,8 @@
 The model was deployed using Google Cloud Services (GCP) and tested using the Postman Application. When the function is called it makes a request to the rapidAPI after predicting the fruit from an image. The function returns the predicted fruit, the confidence level, and the nutrients associated with the fruit
 
 Below is an image provided to Postman with the URL to the model in GCP:
+
 ![43_100](https://user-images.githubusercontent.com/74473048/156256544-953abe8e-9160-42e5-bd4c-6c998f65eba2.jpg)
 
-Below is the response that the model gave:
+Below is the response that the model return:
 ![postman fruit reponse](https://user-images.githubusercontent.com/74473048/156256934-10f52ca0-a846-4214-8bb0-cae96120485e.JPG)
