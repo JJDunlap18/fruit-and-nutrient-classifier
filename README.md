@@ -22,5 +22,5 @@ Below is an image of a lemon provided to Postman with the URL to the model in GC
 
 ![43_100](https://user-images.githubusercontent.com/74473048/156256544-953abe8e-9160-42e5-bd4c-6c998f65eba2.jpg)
 
-Below is the response that the model return:
+Below is the response that the model returned using Postman:
 ![postman fruit reponse](https://user-images.githubusercontent.com/74473048/156256934-10f52ca0-a846-4214-8bb0-cae96120485e.JPG)
