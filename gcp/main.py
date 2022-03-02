@@ -33,8 +33,8 @@ model = None
 def nutrient_info(prediction):
     url = "https://food-nutrition-information.p.rapidapi.com/foods/search"
     headers = {
-        'x-rapidapi-host': "food-nutrition-information.p.rapidapi.com",
-        'x-rapidapi-key': "2a959ff76bmsh8bfcee5e0dcc3cdp1c002ejsn923f18f1b1b4"
+        'x-rapidapi-host': "XXXXXXXXXXXXXXXXXXXX",
+        'x-rapidapi-key': "XXXXXXXXXXXXXXXXXXXXXXXXX"
     }
 
     querystring = {"query": f"{prediction}"}
